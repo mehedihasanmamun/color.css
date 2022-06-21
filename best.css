@@ -1,0 +1,40 @@
+.abc{color:red,black;
+font-size:40px;
+text-transform:capitalize;
+font-family:arial black;
+border:4px solid black;
+background:url(https://images.pexels.com/photos/573130/pexels-photo-573130.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+width:500px;
+height:200px;
+display:block;
+
+}
+.about{
+	 
+	border:2px solid black;
+	width:400px;
+	background:url(https://image.shutterstock.com/image-photo/old-brick-black-color-wall-600w-1605128917.jpg);
+	
+
+	color:white;
+	font-family:arial black;
+}
+
+.ba{
+	color:red;
+	border-bottom:2px solid red;
+	
+}
+.ng{
+	
+	color:green;
+	text-align:center;
+	border-bottom:2px solid green;
+}
+.la{
+	
+	color:blue;
+	text-align:right;
+	border-bottom:2px solid blue;
+}
+
